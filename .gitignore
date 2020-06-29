@@ -1,0 +1,3 @@
+novelSpider/__pycache__/
+novelSpider/spiders/
+novel.db
