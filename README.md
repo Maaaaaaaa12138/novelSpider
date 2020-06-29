@@ -25,3 +25,9 @@ scrapy crawl novel
 > novel是spider/spider.py 文件中Spider类的name属性，可自定义
 
 ### 爬取速度
+
+45分钟共爬取101篇小说，共计28959章
+
+![](http://12138.site/static/contentImg/c2dcd4cb85d16086b59c7f9e7d9b769d.jpg)
+
+![](http://12138.site/static/contentImg/be34e62157e717ef38e411bcf0c1ccb4.jpg)
